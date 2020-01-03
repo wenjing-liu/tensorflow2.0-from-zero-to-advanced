@@ -6,8 +6,6 @@ This repo is the excises of course `TensorFlow2.0-from-zero-to-advanced`. Thanks
 The outline of this course and excises lists:
 
 
-
-
 ### Chapter01 Tensorflow Introduction and Environment Setup
   1. What is Tensorflow?
   2. Tensorflow version changes and tf1.0 architecture
